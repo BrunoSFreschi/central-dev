@@ -18,10 +18,10 @@ Este repositório foi criado para ser uma **central de conteúdo** organizada, r
 ## 🧭 Índice
 
 - [Começando / Roadmap](pages/roadmap.md)
-- [Aprendizado e Estudo]()
-- [Prática e Projetos]()
-- [Front-end e UI/UX]()
-- [Ferramentas de Desenvolvimento]()
+- [Aprendizado e Estudo](pages/plataformas.md)
+- [Prática e Projetos](pages/projetos.md)
+- [Front-end e UI/UX](pages/fronte-end-e-uiux.md)
+- [Ferramentas de Desenvolvimento](pages/ferramentas.md)
 - [Infraestrutura e Deploy]()
 - [Organização e Produtividade]()
 - [Carreira e Comunidade]()
