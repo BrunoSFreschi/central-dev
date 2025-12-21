@@ -4,7 +4,7 @@ roadmap.sh
 Roadmaps interativos e muito completos para carreiras e stacks de tecnologia, como Frontend, Backend, DevOps, Engenharia de Dados, Inteligência Artificial, entre outros. 
 LinkedIn
 
-Hackr.io – Roadmaps
+[Hackr.io](https://hackr.io/) – Roadmaps
 Coleção de learning paths recomendados pela comunidade, com roadmaps para várias carreiras (Frontend, Backend, iOS, Android, Data Science, Full Stack etc.). 
 Hackr
 
