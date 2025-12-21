@@ -17,6 +17,3 @@ Desafios gratuitos focados em lógica, algoritmos, SQL e preparação para entre
 
 [Codewars](https://www.codewars.com/)
 Aprendizado por desafios de programação (“katas”) com progressão de dificuldade.
-
-[Build Your Own X](https://build-your-own-x.vercel.app/)
-Repositório gratuito com guias para aprender recriando tecnologias reais (frameworks, bancos de dados, compiladores).
