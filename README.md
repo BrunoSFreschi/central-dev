@@ -1,3 +1,5 @@
+![osamatrx_a_developer_room_full_of_many_monitors_with_coding_in__9a034d9a-27cd-45f2-bbb6-f6ea9a942999](https://github.com/user-attachments/assets/7c548ff7-6502-420c-9d2d-bef4025e1584)
+
 # Central dev
 
 Já precisou encontrar uma documentação, ferramenta ou site útil e, mesmo usando IA, perdeu muito tempo ou não encontrou o que precisava?
